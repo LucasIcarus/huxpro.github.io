@@ -1,6 +1,6 @@
 #Hux Blog - React.js and Server Side Rendering Port
 
-###[View Live SSR Demo &rarr;](http://http://120.27.122.115:3000/)
+###[View Live SSR Demo &rarr;](http://120.27.122.115:3000/)
 
 ![](http://fancy-oss.oss-cn-shenzhen.aliyuncs.com/screen.png)
 
