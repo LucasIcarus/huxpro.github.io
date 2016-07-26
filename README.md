@@ -4,7 +4,7 @@
 
 ![](http://fancy-oss.oss-cn-shenzhen.aliyuncs.com/screen.png)
 
-### Importance
+### Tips
 
 Trying to build your own blog system by this repo, u need host your **own server**. The github pages is no longer an option.
 
